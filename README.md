@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **humanities student** who fell in love with
 - 🎯 **Learning roadmap:** Full-Stack → DevOps → Machine Learning
 - 👯 **Looking to collaborate on:** Projects that help me gain more experience
 - 💬 **Ask me about:** My transition from humanities to tech, learning programming in every free moment
-- 📫 **How to reach me:** mdrayhanh585@gmail.com
+- 📫 **How to reach me:** [@ryan84173](https://twitter.com/ryan84173)
 - ⚡ **Philosophy:** *"Don't let what you think you know keep you from learning what you don't know."*
 
 ## 🛣️ My Learning Journey
@@ -179,14 +179,20 @@ I believe **hands-on experience** is the key to becoming a great developer:
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ryan16358">
-    <img src="https://img.shields.io/badge/LinkedIn-Ryan16358-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  <a href="https://www.linkedin.com/in/ryan16358" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/ryan84173">
-    <img src="https://img.shields.io/badge/Twitter-@ryan84173-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+  <a href="https://twitter.com/ryan84173" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:mdrayhanh585@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdrayhanh585@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  <a href="mailto:mdrayhanh585@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://rayhan1.me" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="website logo"  />
+  </a>
+  <a href="https://github.com/Ryan16358" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
   </a>
 </p>
 
