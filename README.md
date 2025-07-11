@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ryan16358&color=brightgreen&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/Ryan16358?style=social)](https://github.com/Ryan16358)
+  ![Profile Views](https://komarev.com/ghpvc/?username=ryan84173&color=brightgreen&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/ryan84173?style=social)](https://github.com/ryan84173)
   
 </div>
 
@@ -77,11 +77,11 @@ Welcome to my GitHub profile! I'm a **humanities student** who fell in love with
 
 <div align="center">
   
-  ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryan16358&show_icons=true&theme=radical&count_private=true)
+  ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan84173&show_icons=true&theme=radical&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan16358&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan84173&layout=compact&theme=radical)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryan16358&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryan84173&theme=radical)
   
 </div>
 
@@ -89,23 +89,23 @@ Welcome to my GitHub profile! I'm a **humanities student** who fell in love with
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ryan16358&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryan84173&theme=radical&no-frame=true&no-bg=false&margin-w=4)
   
 </div>
 
 ## 🎯 Experience-Building Projects
 
-### 🌟 [Web Development Practice](https://github.com/Ryan16358/web-dev-practice)
+### 🌟 [Web Development Practice](https://github.com/ryan84173/web-dev-practice)
 Hands-on web development projects to build real experience with HTML, CSS, JavaScript, and Express.js
 
 **Building Experience With:** `HTML` `CSS` `JavaScript` `Express.js` `Real Projects`
 
-### 🌟 [Python Learning Lab](https://github.com/Ryan16358/python-experience)
+### 🌟 [Python Learning Lab](https://github.com/ryan84173/python-experience)
 Python projects focused on gaining practical experience for future DevOps and ML work
 
 **Building Experience With:** `Python` `Problem Solving` `Real Applications`
 
-### 🌟 [Full-Stack Journey](https://github.com/Ryan16358/fullstack-experience)
+### 🌟 [Full-Stack Journey](https://github.com/ryan84173/fullstack-experience)
 End-to-end applications combining frontend and backend - learning by building
 
 **Building Experience With:** `JavaScript` `Express.js` `SQL` `Full-Stack Development`
@@ -114,7 +114,7 @@ End-to-end applications combining frontend and backend - learning by building
 
 <div align="center">
   
-  [![Ryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan16358&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryan84173&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
@@ -191,7 +191,7 @@ I believe **hands-on experience** is the key to becoming a great developer:
   <a href="https://rayhan1.me" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="website logo"  />
   </a>
-  <a href="https://github.com/Ryan16358" target="_blank">
+  <a href="https://github.com/ryan84173" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
   </a>
 </p>
