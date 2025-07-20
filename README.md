@@ -170,39 +170,8 @@ I believe **hands-on experience** is the key to becoming a great developer:
 4. **🤝 Collaboration** prepares you for team environments
 5. **📈 Growth** happens when you push beyond your comfort zone
 
-## 🤝 Let's Connect!
 
-<div align="center">
 
-**Ready to connect, collaborate, or just chat about code?**
-
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ryan16358" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/ryan84173" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:mdrayhanh585@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://rayhan1.me" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="52" height="40" alt="website logo"  />
-  </a>
-  <a href="https://github.com/ryan84173" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo"  />
-  </a>
-</p>
-
-<div align="center">
-  
-  📬 **Drop me a line - I love connecting with fellow learners and developers!**
-  
-</div>
-
----
 
 <div align="center">
   
