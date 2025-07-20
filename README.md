@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Ryan
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryan6t9&color=brightgreen&style=flat-square" alt="Profile Views"/>
-  <a href="https://github.com/ryan6t9">
-    <img src="https://img.shields.io/github/followers/ryan6t9?style=social" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ryan6t4&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/ryan6t4">
+    <img src="https://img.shields.io/github/followers/ryan6t4?style=social" alt="GitHub followers"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **humanities student** who fell in love with
 - 🎯 **Learning roadmap:** Full-Stack → DevOps → Machine Learning
 - 👯 **Looking to collaborate on:** Projects that help me gain more experience
 - 💬 **Ask me about:** My transition from humanities to tech, learning programming in every free moment
-- 📫 **How to reach me:** [@ryan6t9](https://twitter.com/ryan6t9)
+- 📫 **How to reach me:** [@ryan6t4](https://twitter.com/ryan6t4)
 - ⚡ **Philosophy:** *"Don't let what you think you know keep you from learning what you don't know."*
 
 ## 🛣️ My Learning Journey
@@ -76,30 +76,30 @@ Welcome to my GitHub profile! I'm a **humanities student** who fell in love with
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan6t9&show_icons=true&theme=radical&count_private=true" alt="Ryan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan6t9&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan6t9&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan6t4&show_icons=true&theme=radical&count_private=true" alt="Ryan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan6t4&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan6t4&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryan6t9&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryan6t4&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ## 🎯 Experience-Building Projects
 
-### 🌟 [Web Development Practice](https://github.com/ryan6t9/web-dev-practice)
+### 🌟 [Web Development Practice](https://github.com/ryan6t4/web-dev-practice)
 Hands-on web development projects to build real experience with HTML, CSS, JavaScript, and Express.js
 
 **Building Experience With:** `HTML` `CSS` `JavaScript` `Express.js` `Real Projects`
 
-### 🌟 [Python Learning Lab](https://github.com/ryan6t9/python-experience)
+### 🌟 [Python Learning Lab](https://github.com/ryan6t4/python-experience)
 Python projects focused on gaining practical experience for future DevOps and ML work
 
 **Building Experience With:** `Python` `Problem Solving` `Real Applications`
 
-### 🌟 [Full-Stack Journey](https://github.com/ryan6t9/fullstack-experience)
+### 🌟 [Full-Stack Journey](https://github.com/ryan6t4/fullstack-experience)
 End-to-end applications combining frontend and backend - learning by building
 
 **Building Experience With:** `JavaScript` `Express.js` `SQL` `Full-Stack Development`
@@ -108,7 +108,7 @@ End-to-end applications combining frontend and backend - learning by building
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan6t9&theme=react-dark&bg_color=20232a&hide_border=true" alt="Ryan's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan6t4&theme=react-dark&bg_color=20232a&hide_border=true" alt="Ryan's GitHub Activity Graph"/>
   </a>
 </p>
 
