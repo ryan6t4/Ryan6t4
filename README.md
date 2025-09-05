@@ -1,169 +1,138 @@
-# Hi there! 👋 I'm Ryan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+👋%2C+I'm+Ryan)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryan6t4&color=brightgreen&style=flat-square" alt="Profile Views"/>
-  <a href="https://github.com/ryan6t4">
-    <img src="https://img.shields.io/github/followers/ryan6t4?style=social" alt="GitHub followers"/>
-  </a>
+<h3 align="center">A Passionate Full-Stack Developer & Technology Enthusiast</h3>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryan6t4&label=Profile%20views&color=0e75b6&style=flat" alt="ryan6t4" /> </p>
+
+> *"Don't let what you don't know keep you from learning what you do know."*
+
+- 🔭 I'm currently working on [MegaProject](https://github.com/ryan6t4/megaproject)
+
+- 🌱 I'm currently learning **Advanced Next.js, TypeScript & PostgreSQL**
+
+- 👯 I'm looking to collaborate on **Full-Stack Web Applications**
+
+- 👨‍💻 All of my projects are available at [rayhan1.me](https://rayhan1.me)
+
+- 💬 Ask me about **Next.js, TypeScript, Node.js, and Database Design**
+
+- 📫 How to reach me **[Contact through my website](https://rayhan1.me)**
+
+- 📄 Know about my experiences at [rayhan1.me](https://rayhan1.me)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://rayhan1.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="website" height="30" width="40" /></a>
+<a href="https://github.com/ryan6t4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
-## 🚀 About Me
-
-Welcome to my GitHub profile! I'm a **humanities student** who fell in love with programming and dedicates all my free time to learning code. I believe in continuous growth and gaining real-world experience through hands-on practice.
-
-- 🎓 **Background:** Humanities student exploring the world of technology
-- 🔭 **Currently learning:** Full-stack web development fundamentals
-- 💻 **Learning schedule:** Whenever I'm free - programming is my passion!
-- 🌱 **Focus:** Building experience through practice and real projects
-- 🎯 **Learning roadmap:** Full-Stack → DevOps → Machine Learning
-- 👯 **Looking to collaborate on:** Projects that help me gain more experience
-- 💬 **Ask me about:** My transition from humanities to tech, learning programming in every free moment
-- 📫 **How to reach me:** [@ryan6t4](https://twitter.com/ryan6t4)
-- ⚡ **Philosophy:** *"Don't let what you think you know keep you from learning what you don't know."*
-
-## 🛣️ My Learning Journey
-
-### 📍 **Phase 1: Full-Stack Web Development** (Current Focus)
-```text
-🟢 HTML, CSS, JavaScript Fundamentals
-🟡 Express.js Backend Development  
-🟡 Database Integration (SQL)
-🟡 Building Real Projects for Experience
-🔵 Frontend Frameworks (Coming Soon)
-🔵 Full-Stack Project Portfolio
-```
-
-### 🛤️ **Phase 2: DevOps Engineering** (Next Goal)
-```text
-🔵 Docker & Containerization
-🔵 AWS Cloud Services
-🔵 CI/CD Pipelines
-🔵 Infrastructure as Code
-🔵 Real-world DevOps Experience
-```
-
-### 🚀 **Phase 3: Machine Learning** (Future Vision)
-```text
-🎯 Python for Data Science
-🎯 ML Algorithms & Models
-🎯 Data Analysis & Visualization
-🎯 Practical ML Projects
-```
-
-## 🛠️ Technologies I'm Learning
+<h3 align="left">Languages and Tools:</h3>
 
 ### 💻 **Programming Languages**
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> ⭐ **Favorite!**
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> **Actively Learning**
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/> **Some Experience**
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> **Learning**
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> **Learning**
-
-### 🌐 **Web Development (Current Focus)**
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> **Learning**
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> **Learning**
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/> **Learning**
-
-### ☁️ **DevOps & Cloud (Exploring)**
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> **Exploring**
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/> **Future Goal**
-
-### 🔧 **Tools I Use**
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan6t4&show_icons=true&theme=radical&count_private=true" alt="Ryan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan6t4&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan6t4&theme=radical" alt="GitHub Streak"/>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryan6t4&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+### 🚀 **Frontend Frameworks & Libraries**
+<p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-## 🎯 Experience-Building Projects
-
-### 🌟 [Web Development Practice](https://github.com/ryan6t4/web-dev-practice)
-Hands-on web development projects to build real experience with HTML, CSS, JavaScript, and Express.js
-
-**Building Experience With:** `HTML` `CSS` `JavaScript` `Express.js` `Real Projects`
-
-### 🌟 [Python Learning Lab](https://github.com/ryan6t4/python-experience)
-Python projects focused on gaining practical experience for future DevOps and ML work
-
-**Building Experience With:** `Python` `Problem Solving` `Real Applications`
-
-### 🌟 [Full-Stack Journey](https://github.com/ryan6t4/fullstack-experience)
-End-to-end applications combining frontend and backend - learning by building
-
-**Building Experience With:** `JavaScript` `Express.js` `SQL` `Full-Stack Development`
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan6t4&theme=react-dark&bg_color=20232a&hide_border=true" alt="Ryan's GitHub Activity Graph"/>
-  </a>
+### 🛠️ **Backend & Runtime**
+<p align="left">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-## 💪 My Learning Dedication
-
-### ⏰ **When I Code:**
-- 🌅 **Early mornings** before classes
-- 🌙 **Late evenings** after studies  
-- 📚 **Study breaks** - quick coding sessions
-- 🎯 **Weekends** - intensive learning sessions
-- 🚀 **Any free moment** - programming is my passion!
-
-### 🎯 **Experience-First Approach:**
-- 🛠️ **Learning by Building** - Real projects over just theory
-- 🔄 **Iterative Improvement** - Constantly refining and rebuilding
-- 📊 **Tracking Progress** - Measuring growth through completed projects
-- 🤝 **Seeking Feedback** - Always open to learning from others
-- 💡 **Embracing Challenges** - Taking on projects slightly beyond current skill level
-
-## 🧠 Growth Mindset Philosophy
-
-<p align="center">
-  <b><i>"Don't let what you think you know keep you from learning what you don't know."</i></b>
+### 🗄️ **Databases**
+<p align="left">
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
-This quote drives my entire learning approach:
+### 🐳 **DevOps & Tools**
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-- 🔓 **Stay Open-Minded** - Always ready to learn new approaches
-- 🌱 **Embrace Beginner's Mind** - Approaching each topic with fresh curiosity  
-- 🔄 **Continuous Unlearning** - Questioning assumptions and improving methods
-- 📈 **Experience Over Theory** - Prioritizing hands-on practice and real projects
-- 🚀 **Never Stop Growing** - There's always more to learn and experience to gain
+<br>
 
-## 🎓 From Humanities to Code
+## 🚀 Featured Projects
 
-As a humanities student diving deep into programming:
+### 🌟 [MegaProject](https://github.com/ryan6t4/megaproject)
+A comprehensive full-stack application showcasing modern web development practices.
 
-- 📖 **Critical Analysis** - Applying analytical thinking to debug and problem-solve
-- 🎨 **Creative Solutions** - Bringing fresh perspectives to technical challenges  
-- 📝 **Clear Communication** - Explaining complex code and concepts effectively
-- 🌍 **Interdisciplinary Thinking** - Connecting technology with human needs
-- ⚡ **Passionate Learning** - Treating every free moment as a chance to grow
+**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Docker`
 
-## 🔮 Why Experience Matters to Me
+### 🌟 [Next.js Fundamentals](https://github.com/ryan6t4/next.js-fundamentals)
+Deep dive into Next.js framework with practical examples and best practices.
 
-I believe **hands-on experience** is the key to becoming a great developer:
+**Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS`
 
-1. **🛠️ Real Projects** teach you what tutorials can't
-2. **🐛 Debugging** builds problem-solving muscles
-3. **🔄 Iteration** shows you how software really evolves
-4. **🤝 Collaboration** prepares you for team environments
-5. **📈 Growth** happens when you push beyond your comfort zone
+### 🌟 [Vanilla JS Projects](https://github.com/ryan6t4/vanilla-js-projects)
+Collection of pure JavaScript projects demonstrating core programming concepts.
+
+**Tech Stack:** `JavaScript` `HTML5` `CSS3`
+
+### 🌟 [API Design with Node.js](https://github.com/ryan6t4/api-design-nodejs-v5)
+Professional API development using Node.js with modern design patterns.
+
+**Tech Stack:** `Node.js` `Express.js` `MongoDB` `TypeScript`
+
+<br>
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <i>"The beautiful thing about learning is that nobody can take it away from you." – B.B. King</i><br>
-  💻⏰ <b>Coding in every free moment, building experience one project at a time</b> 💻⏰<br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryan6t4&show_icons=true&theme=onedark&count_private=true" alt="Ryan's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan6t4&layout=compact&theme=onedark" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan6t4&theme=onedark" alt="GitHub Streak"/>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryan6t4&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryan6t4&theme=react-dark&bg_color=20232a&hide_border=true" alt="Ryan's GitHub Activity Graph"/>
+</p>
+
+## 💡 Professional Philosophy
+
+As a dedicated full-stack developer, I believe in:
+
+- 🔧 **Building Scalable Solutions** - Creating applications that grow with user needs
+- 📚 **Continuous Learning** - Staying updated with the latest technologies and best practices
+- 🤝 **Collaborative Development** - Working effectively in team environments
+- 🎯 **Quality First** - Writing clean, maintainable, and well-documented code
+- 🚀 **Innovation** - Exploring new technologies and implementing creative solutions
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="400"/>
+</p>
+
+---
+
+<p align="center">
+  <i>💻 Passionate about creating digital solutions that make a difference 💻</i><br>
+  <i>🌟 Always open to collaboration and new opportunities 🌟</i>
 </p>
