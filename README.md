@@ -1,7 +1,6 @@
 # Hi, I'm Ryan — a developer in training.. 👋
 
 Full-Stack Developer working with modern web technologies and system programming.
-💬 Ask me about Linux | I use ubantu BTW 😉
 
 ## Languages
 
