@@ -23,7 +23,7 @@ Full-Stack Developer working with modern web technologies and system programming
 ## Featured Projects
 
 **[API Design](https://github.com/ryan6t4/api-design-nodejs-v5)** - Node.js API development patterns  
-**[MegaProject](https://github.com/ryan6t4/megaproject)** - Full-stack application with Next.js and PostgreSQL  
+**[MegaProject](https://github.com/ryan6t4/megaproject)** - Full-stack application with Next.js and PostgreSQL also Mongodb 
 **[Next.js Fundamentals](https://github.com/ryan6t4/next.js-fundamentals)** - Next.js examples and best practices  
 
 
